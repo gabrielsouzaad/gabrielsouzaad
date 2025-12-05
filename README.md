@@ -14,7 +14,7 @@ Me chamo Gabriel e sou estudante de Tecnologia da Informação, precisamente Ci�
 
 ![Estatísticas do GitHub](https://github-readmestats-virid.vercel.app/api?username=gabrielsouzaad&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
-![Linguagens](https://github-readmestats-virid.vercel.app/api/top-langs/?username=gabrielsouzaad&layout=compact&custom_title=Linguagens&theme=dark&title_color=ffffff&text_color=ffffff&exclude_repo=clone-projeto,github-readmestats)
+![Linguagens](https://github-readmestats-virid.vercel.app/api/top-langs/?username=gabrielsouzaad&layout=compact&custom_title=Linguagens&theme=dark&title_color=ffffff&text_color=ffffff&exclude_repo=clone-projeto,github-readmestats,github-readme-stats)
 
 
 ---
